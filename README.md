@@ -14,9 +14,9 @@ Zhanqiu Zhang, Jianyu Cai, Jie Wang. NeurIPS 2020. [[arXiv](https://arxiv.org/ab
 ## Results
 The results of **DURA** on **WN18RR**, **FB15k-237** and **YAGO3-10** are as follows.
 
-
-![Results](./result.png)
- 
+<p align="center">
+  <img src="./result.png">
+</p>
 
 ## Reproduce the Results
 
