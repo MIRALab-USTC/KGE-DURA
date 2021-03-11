@@ -89,11 +89,16 @@ CUDA_VISIBLE_DEVICES=0 python learn.py --dataset YAGO3-10 --model RESCAL --rank 
 ## Citation
 If you find this code useful, please consider citing the following paper.
 ```
-@inproceedings{zhang2020duality,
-  title={Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion},
-  author={Zhang, Zhanqiu and Cai, Jianyu and Wang, Jie},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2020}
+@inproceedings{NEURIPS2020_f6185f0e,
+ author = {Zhang, Zhanqiu and Cai, Jianyu and Wang, Jie},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {H. Larochelle and M. Ranzato and R. Hadsell and M. F. Balcan and H. Lin},
+ pages = {21604--21615},
+ publisher = {Curran Associates, Inc.},
+ title = {Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion},
+ url = {https://proceedings.neurips.cc/paper/2020/file/f6185f0ef02dcaec414a3171cd01c697-Paper.pdf},
+ volume = {33},
+ year = {2020}
 }
 ```
 
