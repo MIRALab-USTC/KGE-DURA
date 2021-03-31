@@ -1,6 +1,6 @@
 # DURA: Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion
 
-This repository contains the code and the datasets of This is the code of paper 
+This is the code of paper 
 **Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion**. 
 Zhanqiu Zhang, Jianyu Cai, Jie Wang. NeurIPS 2020. [[arXiv](https://arxiv.org/abs/2011.05816)]
 [[NeurIPS-Official](https://proceedings.neurips.cc/paper/2020/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html)]
