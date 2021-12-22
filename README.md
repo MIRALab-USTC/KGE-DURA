@@ -7,7 +7,7 @@ Zhanqiu Zhang, Jianyu Cai, Jie Wang. NeurIPS 2020. [[arXiv](https://arxiv.org/ab
 
 ## Dependencies
 - Python 3.6+
-- PyTorch 1.0+
+- PyTorch 1.0~1.7
 - NumPy 1.17.2+
 - tqdm 4.41.1+
 
